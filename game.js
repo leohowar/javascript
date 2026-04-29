@@ -25,7 +25,7 @@ function attakS(){
 }
 let oppomenthealth = 100;
 let playerhealth = 50;
-let firstattak = prompt("what is your first attak")
+let firstattak = prompt("what is your first attack")
 let kick = 20
 let punch = 10
 if(firstattak .trim() === "punch"){
